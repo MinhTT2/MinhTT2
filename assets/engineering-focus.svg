@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">My engineering focus</title>
+<desc id="desc">Build interfaces and APIs, model data and business rules, verify with tests and continuous integration, and ship with deployment workflows.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1629"/><stop offset="1" stop-color="#182943"/></linearGradient></defs>
+<rect width="1200" height="190" rx="16" fill="url(#bg)"/>
+<g font-family="Arial, sans-serif">
+<text x="32" y="34" fill="#99abc9" font-size="12" letter-spacing="2">FROM USER FLOW TO DEPLOYED PRODUCT</text>
+<g fill="#a5b4fc" font-size="13" font-weight="700"><text x="32" y="78">01 / BUILD</text><text x="332" y="78">02 / MODEL</text><text x="632" y="78">03 / VERIFY</text><text x="932" y="78">04 / SHIP</text></g>
+<g fill="#eef4ff" font-size="24" font-weight="700"><text x="32" y="115">Interfaces + APIs</text><text x="332" y="115">Data + rules</text><text x="632" y="115">Tests + CI</text><text x="932" y="115">Deploy + iterate</text></g>
+<g fill="#9dafcb" font-size="13"><text x="32" y="146">React · TypeScript · NestJS</text><text x="332" y="146">PostgreSQL · Prisma · Redis</text><text x="632" y="146">Jest · Vitest · Playwright</text><text x="932" y="146">Docker · GitHub Actions</text></g>
+<g stroke="#405371"><path d="M301 63V151"/><path d="M601 63V151"/><path d="M901 63V151"/></g>
+<g fill="#5eead4"><circle cx="286" cy="110" r="3"/><circle cx="586" cy="110" r="3"/><circle cx="886" cy="110" r="3"/></g>
+</g>
+</svg>
