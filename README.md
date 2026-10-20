@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner.png" /><img src="./assets/profile-banner.gif" alt="Minh Tien Tran — full-stack developer. From a user flow to a working product. WorkLink, Pageforce, Sân Ngon." width="100%" /></picture>
+  <img src="./assets/profile-banner-vivid.svg" alt="Minh Tien Tran — full-stack developer. From a user flow to a working product. WorkLink, Pageforce, Sân Ngon." width="100%" />
 </p>
 
 <p>I’m Minh, a <strong>full-stack developer</strong> working with React, TypeScript, NestJS, and PostgreSQL. I build interfaces, APIs, and the business rules that connect them — from interview scheduling to visual editors and court reservations.</p>
@@ -45,7 +45,7 @@
 <details>
   <summary><strong>WorkLink — selected changes I authored</strong></summary>
   <br />
-  <p><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/worklink-scheduling.png" /><img src="./assets/worklink-scheduling.gif" alt="Conceptual scheduling illustration: past slot unavailable, upcoming slot selectable, server rejects past starts" width="100%" /></picture></p>
+  <p><img src="./assets/worklink-scheduling-vivid.svg" alt="Conceptual scheduling illustration: past slot unavailable, upcoming slot selectable, server rejects past starts" width="100%" /></p>
   <table>
     <tr><th align="left">Area</th><th align="left">My contribution</th><th align="left">Public evidence</th></tr>
     <tr><td>Interview scheduling</td><td>Disabled past slots in the UI, rejected past-slot changes in the API, and refined upcoming-slot and pending-invitation queries.</td><td><a href="https://github.com/minhtt22-26/sepbe_G31/commit/6633809ebe5b796e57cad1176b079bf7099449dc">API</a> · <a href="https://github.com/he170794kieudinhdoan-lang/sepfe_G31/commit/ef767e28c864400e0bc177c9fcb636f97ee78a24">UI</a></td></tr>
