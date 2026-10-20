@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-vivid.svg" alt="Minh Tien Tran — full-stack developer. From a user flow to a working product. WorkLink, Pageforce, Sân Ngon." width="100%" />
+  <img src="./assets/profile-banner-vivid.svg?v=two-color-1" alt="Minh Tien Tran — full-stack developer. From a user flow to a working product. WorkLink, Pageforce, Sân Ngon." width="100%" />
 </p>
 
 <p>I’m Minh, a <strong>full-stack developer</strong> working with React, TypeScript, NestJS, and PostgreSQL. I build interfaces, APIs, and the business rules that connect them — from interview scheduling to visual editors and court reservations.</p>
@@ -28,7 +28,7 @@
       <p><a href="https://pageforce.vercel.app"><strong>Demo ↗</strong></a> · <a href="https://github.com/MinhTT2/pageforce">Code</a> · <a href="https://github.com/MinhTT2/pageforce/blob/main/docs/showcase.md">Product tour</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/MinhTT2/san-ngon"><img src="./assets/san-ngon-card.svg" alt="Sân Ngon — sports venue booking; conceptual reservation calendar" width="100%" /></a>
+      <a href="https://github.com/MinhTT2/san-ngon"><img src="./assets/san-ngon-card.svg?v=two-color-1" alt="Sân Ngon — sports venue booking; conceptual reservation calendar" width="100%" /></a>
       <p><strong>Find a court. Reserve a time.</strong><br />Court discovery and booking with database-backed reservation rules and payment updates.</p>
       <p><sub>Next.js · PostgreSQL · Supabase<br />Overlap protection · Expiring holds · Webhooks</sub></p>
       <p><a href="https://san-ngon.vercel.app"><strong>Demo ↗</strong></a> · <a href="https://github.com/MinhTT2/san-ngon">Code</a> · <a href="https://github.com/MinhTT2/san-ngon#những-quyết-định-kỹ-thuật-chính">Engineering decisions</a></p>
