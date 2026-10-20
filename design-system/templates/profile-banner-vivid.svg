@@ -17,7 +17,7 @@
 <g font-size="17" font-weight="700">
 <rect x="46" y="296" width="92" height="34" rx="17" fill="{{color.primary_soft}}"/><text x="67" y="319" fill="{{color.primary}}">React</text>
 <rect x="148" y="296" width="136" height="34" rx="17" fill="{{color.primary_soft}}"/><text x="166" y="319" fill="{{color.primary}}">TypeScript</text>
-<rect x="294" y="296" width="98" height="34" rx="17" fill="{{color.accent_soft}}"/><text x="313" y="319" fill="{{color.accent}}">NestJS</text>
+<rect x="294" y="296" width="98" height="34" rx="17" fill="{{color.primary_soft}}"/><text x="313" y="319" fill="{{color.primary}}">NestJS</text>
 <rect x="402" y="296" width="145" height="34" rx="17" fill="{{color.primary_soft}}"/><text x="421" y="319" fill="{{color.primary}}">PostgreSQL</text>
 </g>
 <text x="47" y="371" font-size="17" fill="{{color.muted}}">SELECTED WORK</text><text x="212" y="371" font-size="18" font-weight="700" fill="{{color.ink}}">WorkLink / Pageforce / Sân Ngon</text>
