@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title"><title id="title">From user flow to deployed product</title>
-<rect width="1200" height="190" rx="18" fill="#F7F3FF"/>
-<g font-family="Arial,sans-serif">
-<text x="30" y="31" font-size="13" font-weight="700" letter-spacing="2" fill="#66567E">FROM USER FLOW TO DEPLOYED PRODUCT</text>
-<rect x="18" y="48" width="280" height="124" rx="13" fill="#E0E9FF"/>
-<rect x="312" y="48" width="280" height="124" rx="13" fill="#EADFFF"/>
-<rect x="606" y="48" width="280" height="124" rx="13" fill="#DDF3E7"/>
-<rect x="900" y="48" width="280" height="124" rx="13" fill="#FFE2D4"/>
-<g font-size="14" font-weight="700"><text x="34" y="78" fill="#3155DA">01 / BUILD</text><text x="328" y="78" fill="#7445CE">02 / MODEL</text><text x="622" y="78" fill="#166348">03 / VERIFY</text><text x="916" y="78" fill="#AD382C">04 / SHIP</text></g>
-<g font-size="24" font-weight="700" fill="#252840"><text x="34" y="115">Interfaces + APIs</text><text x="328" y="115">Data + rules</text><text x="622" y="115">Tests + CI</text><text x="916" y="115">Deploy + iterate</text></g>
-<g font-size="13" fill="#53566E"><text x="34" y="146">React · TypeScript · NestJS</text><text x="328" y="146">PostgreSQL · Prisma · Redis</text><text x="622" y="146">Jest · Vitest · Playwright</text><text x="916" y="146">Docker · GitHub Actions</text></g>
+<rect width="1200" height="190" rx="18" fill="#F8FAFC"/>
+<g font-family="Arial, sans-serif">
+<text x="30" y="31" font-size="13" font-weight="700" letter-spacing="2" fill="#566171">FROM USER FLOW TO DEPLOYED PRODUCT</text>
+<rect x="18" y="48" width="280" height="124" rx="13" fill="#EEF2FF"/>
+<rect x="312" y="48" width="280" height="124" rx="13" fill="#EEF2FF"/>
+<rect x="606" y="48" width="280" height="124" rx="13" fill="#EEF2FF"/>
+<rect x="900" y="48" width="280" height="124" rx="13" fill="#FFF0EB"/>
+<g font-size="14" font-weight="700"><text x="34" y="78" fill="#3155F5">01 / BUILD</text><text x="328" y="78" fill="#3155F5">02 / MODEL</text><text x="622" y="78" fill="#3155F5">03 / VERIFY</text><text x="916" y="78" fill="#BD422A">04 / SHIP</text></g>
+<g font-size="24" font-weight="700" fill="#182230"><text x="34" y="115">Interfaces + APIs</text><text x="328" y="115">Data + rules</text><text x="622" y="115">Tests + CI</text><text x="916" y="115">Deploy + iterate</text></g>
+<g font-size="13" fill="#566171"><text x="34" y="146">React · TypeScript · NestJS</text><text x="328" y="146">PostgreSQL · Prisma · Redis</text><text x="622" y="146">Jest · Vitest · Playwright</text><text x="916" y="146">Docker · GitHub Actions</text></g>
 </g></svg>

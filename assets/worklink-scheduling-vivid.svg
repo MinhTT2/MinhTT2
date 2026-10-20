@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title"><title id="title">Conceptual interview scheduling rule: past slots unavailable; API checks the start time.</title>
-<rect width="1120" height="280" rx="20" fill="#F7F3FF"/>
-<g font-family="Arial,sans-serif">
-<text x="32" y="42" font-size="17" font-weight="700" letter-spacing="1" fill="#7445CE">WORKLINK / ONE RULE, TWO BOUNDARIES</text>
-<text x="32" y="80" font-size="27" font-weight="700" fill="#252840">Past slots should be visibly unavailable.</text>
-<rect x="32" y="108" width="300" height="134" rx="16" fill="#FFE0D5"/>
-<text x="54" y="144" font-size="16" fill="#A73426">09:00 / PAST SLOT</text><text x="54" y="183" font-size="28" font-weight="700" fill="#A73426">Unavailable</text><text x="54" y="215" font-size="17" fill="#785144">Selection disabled in the UI</text>
-<rect x="350" y="108" width="300" height="134" rx="16" fill="#D8F2E5"/>
-<text x="372" y="144" font-size="16" fill="#166348">14:00 / UPCOMING SLOT</text><text x="372" y="183" font-size="28" font-weight="700" fill="#166348">Explore this slot</text><text x="372" y="215" font-size="17" fill="#396454">Subject to invitation rules</text>
-<path d="M672 175h36m-8-8 8 8-8 8" fill="none" stroke="#7445CE" stroke-width="3"/>
-<rect x="730" y="108" width="358" height="134" rx="16" fill="#E7DCFC"/>
-<text x="752" y="144" font-size="16" fill="#613BC2">SERVER-SIDE VALIDATION</text><text x="752" y="183" font-size="27" font-weight="700" fill="#442277">Check the start time</text><text x="752" y="215" font-size="17" fill="#66567E">Reject a past-slot change request</text>
+<rect width="1120" height="280" rx="20" fill="#F8FAFC"/>
+<g font-family="Arial, sans-serif">
+<text x="32" y="42" font-size="17" font-weight="700" letter-spacing="1" fill="#3155F5">WORKLINK / ONE RULE, TWO BOUNDARIES</text>
+<text x="32" y="80" font-size="27" font-weight="700" fill="#182230">Past slots should be visibly unavailable.</text>
+<rect x="32" y="108" width="300" height="134" rx="16" fill="#FFF0EB"/>
+<text x="54" y="144" font-size="16" fill="#BD422A">09:00 / PAST SLOT</text><text x="54" y="183" font-size="28" font-weight="700" fill="#BD422A">Unavailable</text><text x="54" y="215" font-size="17" fill="#566171">Selection disabled in the UI</text>
+<rect x="350" y="108" width="300" height="134" rx="16" fill="#EEF2FF"/>
+<text x="372" y="144" font-size="16" fill="#3155F5">14:00 / UPCOMING SLOT</text><text x="372" y="183" font-size="28" font-weight="700" fill="#3155F5">Explore this slot</text><text x="372" y="215" font-size="17" fill="#566171">Subject to invitation rules</text>
+<path d="M672 175h36m-8-8 8 8-8 8" fill="none" stroke="#3155F5" stroke-width="3"/>
+<rect x="730" y="108" width="358" height="134" rx="16" fill="#EEF2FF"/>
+<text x="752" y="144" font-size="16" fill="#3155F5">SERVER-SIDE VALIDATION</text><text x="752" y="183" font-size="27" font-weight="700" fill="#182230">Check the start time</text><text x="752" y="215" font-size="17" fill="#566171">Reject a past-slot change request</text>
 </g></svg>

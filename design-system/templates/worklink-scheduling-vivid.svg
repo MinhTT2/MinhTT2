@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title"><title id="title">Conceptual interview scheduling rule: past slots unavailable; API checks the start time.</title>
+<rect width="1120" height="280" rx="{{radius.panel}}" fill="{{color.canvas}}"/>
+<g font-family="{{font.family}}">
+<text x="32" y="42" font-size="17" font-weight="700" letter-spacing="1" fill="{{color.primary}}">WORKLINK / ONE RULE, TWO BOUNDARIES</text>
+<text x="32" y="80" font-size="27" font-weight="700" fill="{{color.ink}}">Past slots should be visibly unavailable.</text>
+<rect x="32" y="108" width="300" height="134" rx="16" fill="{{color.accent_soft}}"/>
+<text x="54" y="144" font-size="16" fill="{{color.accent}}">09:00 / PAST SLOT</text><text x="54" y="183" font-size="28" font-weight="700" fill="{{color.accent}}">Unavailable</text><text x="54" y="215" font-size="17" fill="{{color.muted}}">Selection disabled in the UI</text>
+<rect x="350" y="108" width="300" height="134" rx="16" fill="{{color.primary_soft}}"/>
+<text x="372" y="144" font-size="16" fill="{{color.primary}}">14:00 / UPCOMING SLOT</text><text x="372" y="183" font-size="28" font-weight="700" fill="{{color.primary}}">Explore this slot</text><text x="372" y="215" font-size="17" fill="{{color.muted}}">Subject to invitation rules</text>
+<path d="M672 175h36m-8-8 8 8-8 8" fill="none" stroke="{{color.primary}}" stroke-width="3"/>
+<rect x="730" y="108" width="358" height="134" rx="16" fill="{{color.primary_soft}}"/>
+<text x="752" y="144" font-size="16" fill="{{color.primary}}">SERVER-SIDE VALIDATION</text><text x="752" y="183" font-size="27" font-weight="700" fill="{{color.ink}}">Check the start time</text><text x="752" y="215" font-size="17" fill="{{color.muted}}">Reject a past-slot change request</text>
+</g></svg>

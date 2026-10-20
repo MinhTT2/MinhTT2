@@ -5,7 +5,7 @@
 <p>I’m Minh, a <strong>full-stack developer</strong> working with React, TypeScript, NestJS, and PostgreSQL. I build interfaces, APIs, and the business rules that connect them — from interview scheduling to visual editors and court reservations.</p>
 
 <p align="center">
-  <a href="https://worklink.id.vn"><img src="./assets/link-worklink.svg" alt="Try WorkLink" width="165" /></a>
+  <a href="https://worklink.id.vn"><img src="./assets/link-worklink.svg" alt="Try WorkLink" width="183" /></a>
   <a href="./docs/worklink-scheduling-story.md"><img src="./assets/link-story.svg" alt="Read my engineering case study" width="183" /></a>
   <a href="https://github.com/MinhTT2?tab=repositories"><img src="./assets/link-code.svg" alt="Explore my code" width="183" /></a>
 </p>
