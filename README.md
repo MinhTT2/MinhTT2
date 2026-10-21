@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-vivid.svg?v=basketball-2" alt="Minh Tien Tran — full-stack developer. From a user flow to a working product. WorkLink, Pageforce, Sân Ngon. Basketball off the keyboard." width="100%" />
+  <img src="./assets/profile-banner-vivid.svg?v=basketball-3" alt="Minh Tien Tran — full-stack developer. From a user flow to a working product. WorkLink, Pageforce, Sân Ngon. Basketball illustration." width="100%" />
 </p>
 
 <p>I’m Minh, a <strong>full-stack developer</strong> working with React, TypeScript, NestJS, and PostgreSQL. I build interfaces, APIs, and the business rules that connect them — from interview scheduling to visual editors and court reservations.</p>
@@ -87,8 +87,4 @@
 
 <p><sub>Some professional work lives in private repositories; anonymized contributions are visible on my profile. The projects above show the code and engineering decisions I can share publicly.</sub></p>
 
-## Beyond the keyboard
-
-<p><img src="./assets/basketball-court.svg" alt="Off the keyboard. On the court. Basketball illustration with a cobalt court, coral key, hoop, and ball." width="100%" /></p>
-
-<p>Off the keyboard, I’m a basketball enthusiast. Building <a href="https://github.com/MinhTT2/san-ngon">Sân Ngon</a> brings my interest in sports and web development into the same project.</p>
+<p align="center"><img src="./assets/basketball-avatar.png" alt="Basketball" width="240" /></p>
