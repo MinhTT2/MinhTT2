@@ -42,7 +42,7 @@ Màu từ ảnh chụp sản phẩm và giao diện GitHub nằm ngoài phạm v
 
 - [tokens.json](./tokens.json): màu sắc, font, khoảng cách, bo góc và nét viền.
 - [templates/](./templates): SVG tham chiếu token thay vì tự chọn mã màu.
-- [build.py](./build.py): sinh tám SVG đang dùng trong README; kiểm tra XML, mã màu ngoài hệ thống và tương phản chữ.
+- [build.py](./build.py): sinh các SVG đang dùng trong README; kiểm tra XML, mã màu ngoài hệ thống và tương phản chữ.
 
 Chạy từ thư mục gốc của repo, với Python 3:
 
@@ -52,3 +52,7 @@ git diff --check
 ```
 
 Thay token hoặc template rồi chạy lại lệnh. Các hình PNG/GIF cũ được giữ để bảo toàn liên kết trong bài viết; profile README dùng bộ SVG hiện tại.
+
+## Basketball artwork
+
+Banner và `basketball-court.svg` dùng cùng token xanh–cam. `assets/basketball-avatar.png` là ảnh bóng rổ 3D tự dựng, được lưu để dùng làm avatar; màu ánh sáng và texture nằm ngoài bảng màu SVG.
