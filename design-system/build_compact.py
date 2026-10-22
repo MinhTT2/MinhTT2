@@ -8,7 +8,8 @@ OUT = ROOT / 'assets/compact'
 OUT.mkdir(parents=True, exist_ok=True)
 FONT = 'Arial, Helvetica, sans-serif'
 TECH = [
-    ('react', 'React', '#176479'), ('nextdotjs', 'Next.js', '#24292F'),
+    ('react', 'React', '#176479'), ('vuedotjs', 'Vue.js', '#287B59'),
+    ('nextdotjs', 'Next.js', '#24292F'),
     ('typescript', 'TypeScript', '#2765A5'), ('javascript', 'JavaScript', '#806600'),
     ('tailwindcss', 'Tailwind CSS', '#08677D'), ('nodedotjs', 'Node.js', '#35652C'),
     ('nestjs', 'NestJS', '#B51A42'), ('postgresql', 'PostgreSQL', '#345F82'),
@@ -30,18 +31,18 @@ for slug, label, color in TECH:
 PROJECTS = [
     ('worklink', 'WorkLink', '#D99046',
      ['Job matching, applications,', 'and interview scheduling.'],
-     ['Past-slot validation across', 'the interface and API.'],
-     ['React', 'NestJS', 'PostgreSQL'], 'TEAM PROJECT / MY CONTRIBUTIONS',
+     ['Browse jobs, send applications,', 'and view interview invitations.'],
+     ['React', 'NestJS', 'PostgreSQL'], 'G31 TEAM PROJECT',
      '<rect x="25" y="32" width="24" height="19" rx="3"/><path d="M32 32v-5h10v5M25 40h24M35 40v4h4v-4"/>'),
     ('pageforce', 'Pageforce', '#79A9F5',
-     ['A visual website builder', 'powered by typed JSON blocks.'],
-     ['One renderer for the editor', 'and published pages.'],
-     ['Next.js', 'Prisma', 'Supabase'], 'SCHEMA / EDITOR / PUBLIC PAGES',
+     ['A visual website builder', 'for creating web pages.'],
+     ['Add, edit, and arrange blocks.', 'Preview and save your pages.'],
+     ['Next.js', 'Prisma', 'Supabase'], 'BUILD / EDIT / PREVIEW',
      '<rect x="25" y="27" width="25" height="24" rx="3"/><path d="M25 34h25M33 34v17"/>'),
     ('san-ngon', 'Sân Ngon', '#BC9BEA',
      ['Find a sports venue, choose', 'a time, and reserve a court.'],
-     ['Database reservation rules', 'and payment confirmation.'],
-     ['Next.js', 'PostgreSQL', 'SePay'], 'BOOKING / DATABASE / PAYMENTS',
+     ['Search venues by date and time.', 'Track bookings and payments.'],
+     ['Next.js', 'PostgreSQL', 'SePay'], 'FIND / BOOK / MANAGE',
      '<rect x="25" y="29" width="25" height="23" rx="3"/><path d="M31 25v8M44 25v8M25 37h25M32 44l4 4 8-8"/>'),
 ]
 for theme, bg, border, ink, muted, tag in [
@@ -61,4 +62,4 @@ for theme, bg, border, ink, muted, tag in [
             x += w+6
         body += f'<path d="M25 223h310" stroke="{border}"/><text x="25" y="241" font-size="10" font-weight="700" letter-spacing="1.1" fill="{muted}">{footer}</text></g>'
         svg(f'{slug}-{theme}.svg',360,252,f'{title}. '+ ' '.join(desc+focus),body)
-print('Built 12 badges and 6 project cards.')
+print(f'Built {len(TECH)} badges and {len(PROJECTS)*2} project cards.')
