@@ -1,4 +1,4 @@
-<img align="right" src="./assets/basketball-avatar.png" alt="Basketball" width="64" />
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/basketball-poster.png" /><img align="right" src="./assets/basketball-loop.gif" alt="An orange basketball spinning and bouncing on a dark background." width="128" /></picture>
 
 ## 👋 Hi there, I’m Minh Tien Tran!
 

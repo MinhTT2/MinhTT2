@@ -66,4 +66,6 @@ Thay token hoặc template rồi chạy lại lệnh. Các hình PNG/GIF cũ đ�
 
 ## Basketball artwork
 
+Profile dùng `assets/basketball-loop.gif`: quả bóng cam xoay và nảy trên nền tối, không chữ. `assets/basketball-poster.png` là bản tĩnh khi người xem bật giảm chuyển động. Nguồn dựng hình: `build_basketball_motion.py` (NumPy + Pillow); 60 khung hình, vòng lặp 2,5 giây, bảng màu chung để tránh nhấp nháy. Đây là đồ họa tự dựng, không dùng ảnh AI hoặc clip của bên thứ ba. Chạy `python design-system/build_basketball_motion.py` để tái tạo.
+
 Banner và `basketball-court.svg` dùng cùng token xanh–cam. `assets/basketball-avatar.png` là ảnh bóng rổ 3D tự dựng, được lưu để dùng làm avatar; màu ánh sáng và texture nằm ngoài bảng màu SVG.
