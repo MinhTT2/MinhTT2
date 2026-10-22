@@ -4,6 +4,8 @@
 
 README hiện dùng lời chào ngắn, 13 badge công nghệ, 3 thẻ dự án cùng hàng và phần LaptopShop giới thiệu dự án đầu tay với Java/JSP/Servlet. Mô tả tập trung vào chức năng dự án, kèm link demo và mã nguồn. Cards có bản sáng/tối theo theme của người xem. Không hiển thị số sao, streak hoặc số đóng góp được tự dựng. Biểu đồ hoạt động do GitHub cung cấp bên dưới profile.
 
+Giới thiệu nhắc kinh nghiệm trước đây tại Pancake (Webcake) và H2Q Solution. Mục thu gọn `Experience & Education` ghi thời gian làm việc, nhiệm vụ cụ thể và thời gian học tại FPT University theo CV được cung cấp. Không tự thêm công ty hiện tại hoặc đánh giá mức độ thành thạo công nghệ.
+
 Nguồn mới: `build_compact.py`, sinh `assets/compact/`. Chạy `python design-system/build_compact.py`. Icon badge lấy từ Simple Icons (CC0); SVG gốc nằm trong `assets/compact/icons/`. Màu badge theo công nghệ để bám mẫu tham khảo mới.
 
 ## Previous artwork system

@@ -3,7 +3,8 @@
 ## 👋 Hi there, I’m Minh Tien Tran!
 
 **Web developer**<br />
-I work on web applications, from user interfaces to everyday product features.
+I build web interfaces with React, Next.js, and Vue.js, and work on everyday product features.<br />
+Previously at **Pancake (Webcake)** and **H2Q Solution**.
 
 ### Languages & Tools
 
@@ -46,6 +47,18 @@ I work on web applications, from user interfaces to everyday product features.
 
 **[LaptopShop ↗](https://github.com/minhtt22-26/LaptopShop-SE1870-NJ-G1)** · Java · JSP · Servlets<br />
 My first web project, and one I put a lot of care into: a laptop store with product browsing, a shopping cart, and checkout.
+
+<details>
+<summary><strong>Experience & Education</strong></summary>
+
+| Company | Period | What I worked on |
+| --- | --- | --- |
+| **Pancake · Webcake** | Dec 2025 – May 2026 | Website builder: Vue components, responsive pages, and draft saving. |
+| **H2Q Solution** | Dec 2024 – Jun 2025 | Next.js and Tailwind CSS interfaces, API integration, and UI bug fixes. |
+
+**FPT University** · Sep 2022 – Jun 2026
+
+</details>
 
 [Browse my repositories →](https://github.com/MinhTT2?tab=repositories)
 
